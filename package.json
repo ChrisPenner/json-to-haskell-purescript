@@ -1,0 +1,13 @@
+{
+  "name": "react-basic-starter",
+  "version": "1.0.0",
+  "description": "An example react-basic project",
+  "repository": "lumihq/react-basic-starter",
+  "dependencies": {
+    "react": "16.8.4",
+    "react-dom": "16.8.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.1"
+  }
+}
